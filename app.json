@@ -1,6 +1,6 @@
 {
     "name": "VLESS",
-    "description": "Deploy VLESS and Trojan on Heroku.",
+    "description": "Deploy VLESS and Trojan on 666.",
     "keywords": ["VLESS"],
     "env": {
         "ID": {
